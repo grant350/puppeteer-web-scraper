@@ -1,4 +1,4 @@
-<h1>Puppeteer crypto coin webscrapper</h1>
+<h1>Puppeteer crypto coin web scraper</h1>
 
 
 <h3>This app was built with Node.js, and React.js</h3>
